@@ -79,7 +79,7 @@ Refactoring work I did
 8.) Lines 12 and 27, changed "div" to "nav" in Header
 9.) In CSS, added  margin-bottom: 32px; and color: #ffffff; attributes to Benefits class
 10.) Updated/consolidated benefits.img class and benefits h3 class attributes
-
+11.) Updated Line 84, changed <h2> to <h3> in footer to make heading attributes fall in sequential order
 
 
 To-do
@@ -92,5 +92,5 @@ To-do
 5.) Combine float-left and float-right
 6.) Combine search engine optimzation, online-rep-management, and social-media-marketing from lines 139 - 163
 7.) Combine h2
-
+8.) Change h2 of footer class to h3
 https://www.w3schools.com/html/html5_semantic_elements.asp
