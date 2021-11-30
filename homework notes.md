@@ -80,7 +80,7 @@ Refactoring work I did
 9.) In CSS, added  margin-bottom: 32px; and color: #ffffff; attributes to Benefits class
 10.) Updated/consolidated benefits.img class and benefits h3 class attributes
 11.) Updated Line 84, changed <h2> to <h3> in footer to make heading attributes fall in sequential order
-
+12.) Changed <h3> to <h4> in footer to make heading attributes fall in sequential order
 
 To-do
 1.) Add alt description for background image (hero)
