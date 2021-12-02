@@ -1,7 +1,7 @@
 homework notes
 GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
+<!-- WHEN I view the source code
+THEN I find semantic HTML elements -->
 WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of styling and positioning
 <!-- WHEN I view the icon and image elements
@@ -86,8 +86,8 @@ Refactoring work I did
 1.) Change title to Horiseon Social Solution Services
 2.) Updated element semantics
 3.) 6:47 pm - removed div element from footer to clean up element semantics
-
-
+4.) Updated more element semantics (lines 32 - 55)
+5.) Updated header, nav, and div elements for unordered list items between lines 10 - 19
 
 -----
 
