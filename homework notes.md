@@ -4,10 +4,10 @@ WHEN I view the source code
 THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
+<!-- WHEN I view the icon and image elements
+THEN I find accessible alt attributes -->
+<!-- WHEN I view the heading attributes
+THEN they fall in sequential order -->
 <!-->
 WHEN I view the title element
 THEN I find a concise, descriptive title
@@ -82,6 +82,16 @@ Refactoring work I did
 11.) Updated Line 84, changed <h2> to <h3> in footer to make heading attributes fall in sequential order
 12.) Changed <h3> to <h4> in footer to make heading attributes fall in sequential order
 
+12/01/2021
+1.) Change title to Horiseon Social Solution Services
+2.) Updated element semantics
+3.) 6:47 pm - removed div element from footer to clean up element semantics
+
+
+
+-----
+
+
 To-do
 1.) Add alt description for background image (hero)
 2.) Combine images that I can into one class
@@ -93,4 +103,11 @@ To-do
 6.) Combine search engine optimzation, online-rep-management, and social-media-marketing from lines 139 - 163
 7.) Combine h2
 8.) Change h2 of footer class to h3
-https://www.w3schools.com/html/html5_semantic_elements.asp
+9.) Update title
+https://www.w3schools.com/html/html5_semantic_elements.asp]
+
+
+Need to submit two links
+repo and live version 
+
+use sections and article
