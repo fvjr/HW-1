@@ -90,7 +90,8 @@ Refactoring work I did
 5.) Updated header, nav, and div elements for unordered list items between lines 10 - 19
 6.) Reorganized CSS to follow flow of HTML
 7.) Updated CSS for footer - changed h2 to h4
-8.) Combined CSS classes with the same attributes
+8.) Combined CSS classes with the same selectors and properties
+9.) Added comments to the CSS file
 -----
 
 
