@@ -12,7 +12,7 @@ Simply copy the code for this repo from the HW-1 repo on Github.
 ##Usage
 Feel free to use this website as a means of learning refactoring HTML and CSS. Let me know if you find any further ways to improve the code! Below is a screenshot of the deployed website.
 
-    ![Screenshot of the deployed website](Assets/images/01-html-css-git-homework-demo.png)
+    ![Screenshot of the deployed website](Assets/01-html-css-git-homework-demo.png "Website Demo")
 
 ##Credits
 Original code provided by Penn LPS Coding Boot Camp/Trilogy Education Services
