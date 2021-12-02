@@ -2,8 +2,8 @@ homework notes
 GIVEN a webpage meets accessibility standards
 <!-- WHEN I view the source code
 THEN I find semantic HTML elements -->
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
+<!-- WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning -->
 <!-- WHEN I view the icon and image elements
 THEN I find accessible alt attributes -->
 <!-- WHEN I view the heading attributes
@@ -88,7 +88,9 @@ Refactoring work I did
 3.) 6:47 pm - removed div element from footer to clean up element semantics
 4.) Updated more element semantics (lines 32 - 55)
 5.) Updated header, nav, and div elements for unordered list items between lines 10 - 19
-
+6.) Reorganized CSS to follow flow of HTML
+7.) Updated CSS for footer - changed h2 to h4
+8.) Combined CSS classes with the same attributes
 -----
 
 
